@@ -3,7 +3,7 @@
 I am in the process of learning iOS development, although my background is mainly using the .NET Framework for development.
 <br><br>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FailFly24&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FailFly24&layout=compact&theme=radical&card_width=400&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FailFly24&layout=compact&theme=radical&card_width=400&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 # **Learning & Using Skills**
 ![Swift](https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=white)
