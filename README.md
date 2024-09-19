@@ -68,4 +68,8 @@ I am in the process of learning iOS development, although my background is mainl
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=c-sharp&logoColor=white)
 
 
+# HISTORY
+
+Sep 19, 2024 - old repositories moved to other repository (name: Old)
+
 
