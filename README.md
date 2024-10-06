@@ -1,8 +1,6 @@
 # iOS Developer ![Visitor Count](https://komarev.com/ghpvc/?username=FailFly24) ![Seneca College](https://img.shields.io/badge/Seneca_College-%23FF0000?style=flat&logoColor=white)
 <br>
-😀 Hi there, I am living in South Korea, but I also live in Canada with permanent residency card.<br>
-I am in the process of learning iOS development, although my background is mainly using the .NET Framework for development.
-<br><br>
+iOS development and .Net development
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devrun2016&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrun2016&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
