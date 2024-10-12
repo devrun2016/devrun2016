@@ -5,7 +5,7 @@ iOS development and .Net development
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devrun2016&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrun2016&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-# **Learning & Using Skills**
+# **Using Skills**
 ![Swift](https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-%23007AFF?style=flat&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138?style=flat&logo=swift&logoColor=white)
