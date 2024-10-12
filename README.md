@@ -12,7 +12,6 @@ iOS development and .Net development
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF?style=flat&logo=azure&logoColor=white)
 
-<br><br>
 # What I learned and experienced programming skills
 ### Web Development
 ![Web Development](https://img.shields.io/badge/Web_Development-%23F4A300?style=flat&logo=html5&logoColor=white)
