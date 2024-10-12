@@ -12,34 +12,6 @@ iOS development and .Net development
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF?style=flat&logo=azure&logoColor=white)
 
-# Project List
-<table>
-  <tr>
-    <td><img src="https://via.placeholder.com/200" alt="Project 1" width="210"/></td>
-    <td><img src="https://via.placeholder.com/200" alt="Project 2" width="210"/></td>
-    <td><img src="https://via.placeholder.com/200" alt="Project 3" width="210"/></td>
-    <td><img src="https://via.placeholder.com/200" alt="Project 4" width="210"/></td>
-  </tr>
-  <tr>
-    <td>404 Error</td>
-    <td>404 Error</td>
-    <td>404 Error</td>
-    <td>404 Error</td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/200" alt="Project 5" width="210"/></td>
-    <td><img src="https://via.placeholder.com/200" alt="Project 6" width="210"/></td>
-    <td><img src="https://via.placeholder.com/200" alt="Project 7" width="210"/></td>
-    <td><img src="https://via.placeholder.com/200" alt="Project 8" width="210"/></td>
-  </tr>
-  <tr>
-    <td>404 Error</td>
-    <td>404 Error</td>
-    <td>404 Error</td>
-    <td>404 Error</td>
-  </tr>
-</table
-
 <br><br>
 # What I learned and experienced programming skills
 ### Web Development
