@@ -1,6 +1,7 @@
 # iOS Developer ![Visitor Count](https://komarev.com/ghpvc/?username=FailFly24) ![Seneca College](https://img.shields.io/badge/Seneca_College-%23FF0000?style=flat&logoColor=white)
 <br>
-iOS development and .Net development
+<b>Using .net framework used for window application development</b> <br>
+<b>Using Flutter and Swift for mobile development</b> <br><br>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devrun2016&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrun2016&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
