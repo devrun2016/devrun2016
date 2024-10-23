@@ -14,7 +14,7 @@
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF?style=flat&logo=azure&logoColor=white)
 
 # **Current Project**
-1. Kowell International Franachise Management Application (iOS / Android / Windows)
+1. Kowell International Management Application (iOS / Android / Windows)
 
 # What I learned and experienced programming skills
 ### Web Development
