@@ -10,6 +10,7 @@
 ![Swift](https://img.shields.io/badge/Swift-%23F05138?style=flat&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-%23007AFF?style=flat&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%23F05138?style=flat&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat&logo=firebase&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF?style=flat&logo=azure&logoColor=white)
 
@@ -26,7 +27,6 @@
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-%233DDC84?style=flat-square&logo=android&logoColor=white&color=333333)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23007396?style=flat&logo=java&logoColor=white)
 
 ### Databases
